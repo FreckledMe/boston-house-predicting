@@ -38,3 +38,8 @@ Try using the model
 Predicted cost
 
 ![Screenshot](image/stream2.png)
+
+
+Use
+
+    pip install -r requirements.txt
