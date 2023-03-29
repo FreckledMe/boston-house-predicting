@@ -26,6 +26,9 @@ I trained the dataset with Deep Learning (tensorflow.keras)
 
 My model accuracy
 <a><img src="image/eval.png"/></a>
+
+
+Try using the model
 [Streamlit](https://freckledme-boston-house-predicting-streamlitinterface-7s725y.streamlit.app/)
 
 
