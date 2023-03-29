@@ -43,3 +43,5 @@ Predicted cost
 Use
 
     pip install -r requirements.txt
+
+![Run notebook](https://github.com/FreckledMe/boston-house-predicting/blob/main/boston-house-prediction.ipynb)
