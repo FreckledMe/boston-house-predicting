@@ -36,4 +36,4 @@ Try using the model
 
 Predicted cost
 
-![Screenshot](image/stream1.png)
+![Screenshot](image/stream2.png)
