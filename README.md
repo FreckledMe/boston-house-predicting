@@ -1,5 +1,5 @@
 # boston-house-predicting
-[Streamlit](https://freckledme-boston-house-predicting-streamlitinterface-7s725y.streamlit.app/)
+
 
 
 
@@ -24,6 +24,10 @@ The Boston Housing Dataset is a derived from information collected by the U.S. C
 
 I trained the dataset with Deep Learning (tensorflow.keras)
 
+My model accuracy
+(image/eval.png)
+
+[Streamlit](https://freckledme-boston-house-predicting-streamlitinterface-7s725y.streamlit.app/)
 
 
 ![Screenshot](image/deploy.png)
