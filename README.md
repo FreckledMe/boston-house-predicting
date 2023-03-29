@@ -33,3 +33,7 @@ Try using the model
 
 
 ![Screenshot](image/deploy.png)
+
+Predicted cost
+
+![Screenshot](image/stream.png)
